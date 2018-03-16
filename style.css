@@ -1,9 +1,10 @@
 body {
-    background-color: rgb(103, 171, 221);
+    background-color: black;
     text-align: center;
 }
 
 h1 {
+    color: white;
     font-family: cursive;
     font-style: italic;
 
